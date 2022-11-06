@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056029089857",
+    "project_id": "sharingapp-190ea",
+    "storage_bucket": "sharingapp-190ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056029089857:android:0ec9596a4074d29e7c26c0",
+        "android_client_info": {
+          "package_name": "com.example.sharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056029089857-k18mf6narhgum3jmbsr54abttm6nfrrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADi1bhgeGKXtMO1b3lCNcsXWL1JCRnsSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056029089857-k18mf6narhgum3jmbsr54abttm6nfrrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
